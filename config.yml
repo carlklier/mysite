@@ -5,7 +5,8 @@
 #trying to save pass
 
 
-baseURL: "https://examplesite.com/"
+#baseURL: "https://examplesite.com/"
+baseURL: "/"
 title: Carl's Site
 paginate: 5
 theme: PaperMod
