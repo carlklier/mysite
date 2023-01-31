@@ -6,7 +6,8 @@
 
 
 #baseURL: "https://examplesite.com/"
-baseURL: "/"
+#baseURL: "//carlklier.github.io/mysitepublic"
+baseURL: "//carlklier.com"
 title: Carl's Site
 paginate: 5
 theme: PaperMod
@@ -52,15 +53,15 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "/favicon.ico"
-    favicon16x16:  "/favicon-16x16.png"
-    favicon32x32:  "/favicon-32x32.png"
-    apple_touch_icon:  "/apple-touch-icon.png"
-    #safari_pinned_tab:  "/safari-pinned-tab.svg"
+    favicon: "/mysitepublic/favicon.ico"
+    favicon16x16:  "/mysitepublic/favicon-16x16.png"
+    favicon32x32:  "/mysitepublic/favicon-32x32.png"
+    apple_touch_icon:  "/mysitepublic/apple-touch-icon.png"
+    #safari_pinned_tab:  "/mysitepublic/safari-pinned-tab.svg"
 
   label:
     text: "Home"
-    icon: /apple-touch-icon.png
+    icon: /mysitepublic/apple-touch-icon.png
     #iconHeight: 35
 
   # profile-mode
